@@ -48,14 +48,14 @@
     "web-and-app-activity-controls": "./bin/web-and-app-activity-controls.js"
   },
   "dependencies": {
-    "@assistant/actions": "0.1.0",
+    "@assistant/actions": "1.0.0",
     "@types/chai": "^4.1.4",
     "@types/i18n": "^0.8.6",
     "@types/js-yaml": "^3.12.5",
     "@types/node": "^10.9.4",
     "@types/promise.prototype.finally": "^2.0.3",
     "chai": "^4.2.0",
-    "google-auth-library": "^6.1.2",
+    "google-auth-library": "^7.0.2",
     "grpc": "^1.24.0",
     "i18n": "^0.8.3",
     "js-yaml": "^3.14.0",
